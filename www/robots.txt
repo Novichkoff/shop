@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /index.php$
+Disallow: /cgi-bin/*
+Disallow: /uploads/*
+Disallow: /webstat/*
+Disallow: /tools/*
+Disallow: /kcfinder/*
+Host: ndural.ru
+Sitemap: http://ndural.ru/sitemap.php

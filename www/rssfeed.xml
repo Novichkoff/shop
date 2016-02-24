@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+    <title>Лента новостей NDURAL.RU</title>
+    <link>http://ndural.ru</link>
+    <description>Интеренет-автомагазин NDURAL.RU</description>
+    <pubDate>Mon, 01 Sep 2014 01:12:49 +0400</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2014 01:12:49 +0400</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <generator>Weblog Editor 2.0</generator>
+	<image>
+		<url>http://ndural.ru/images/logo.png</url>
+		<title>Интеренет-автомагазин NDURAL.RU</title>
+		<link>http://ekb-oriflame.ru</link>
+		<description>
+		<![CDATA[ У нас можно купить: автосигнализацию, автомагнитолу, акустику, сабвуфер, видеорегистратор, навигатор, мультимедийные системы и кабельную продукцию по очень низким ценам в Екатеринбурге. Мы работаем напрямую с авторизованными дилерами автоэлектроники и предлагаем быструю и удобную доставку в Екатеринбурге и полную гарантию на предлагаемые товары. Оформите заказ на сайте и мы сделаем все остальное. Мы предлагаем товары следующих брендов: Pioneer, Alpine, Sony, ParkVision, Prology, MBQuart, Vibe, Jaguar, Pantera, JBL, Infinity, Alligator, KGB, Clifford, GroundZero, Lanzar и др. ]]>
+		</description>
+	</image>
+    <copyright>Copyright 2013 ndural.ru</copyright>
+    <managingEditor>info@ndural.ru</managingEditor>
+    <webMaster>novichkoff@icloud.com</webMaster>
+    <language>ru</language>
+    <item>
+        <title>Prology iMap-4300 и iMap-5300</title>
+        <description><![CDATA[<div><img title="Prology iMap-4300 и iMap-5300" src="http://ndural.ru/images/news/03.jpg" alt="Prology iMap-4300 и iMap-5300" style"float:left;">
+									<pre>Весной 2013 года автолюбителям и автолюбительницам России были представлены обновленные навигаторы</pre>
+									<a href="http://ndural.ru/shop/news/prology_imap4300_i_imap5300">Подробнее...</a></div>]]></description>
+        <link>http://ndural.ru/shop/news/prology_imap4300_i_imap5300</link>
+		<author>NDURAL.RU</author>
+		<enclosure url="http://ndural.ru/" type="image/jpeg"/>
+        <guid isPermaLink="true">http://ndural.ru/shop/news/prology_imap4300_i_imap5300</guid>
+        <pubDate>Wed, 18 Dec 2013 16:08:09 +0400</pubDate>
+    </item>
+    <item>
+        <title>Радар-детекторы Prology iScan</title>
+        <description><![CDATA[<div><img title="Радар-детекторы Prology iScan" src="http://ndural.ru/images/news/02.jpg" alt="Радар-детекторы Prology iScan" style"float:left;">
+									<pre>Вооружившись этими устройствами, вы будете защищены от неожиданных штрафов за превышение скорости</pre>
+									<a href="http://ndural.ru/shop/news/radardetektory_prology_iscan">Подробнее...</a></div>]]></description>
+        <link>http://ndural.ru/shop/news/radardetektory_prology_iscan</link>
+		<author>NDURAL.RU</author>
+		<enclosure url="http://ndural.ru/" type="image/jpeg"/>
+        <guid isPermaLink="true">http://ndural.ru/shop/news/radardetektory_prology_iscan</guid>
+        <pubDate>Wed, 18 Dec 2013 15:44:07 +0400</pubDate>
+    </item></channel>
+</rss>

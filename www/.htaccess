@@ -1,0 +1,30 @@
+RewriteEngine on
+
+Options +FollowSymlinks
+
+RewriteBase /
+
+
+RewriteCond %{HTTP_HOST} ^www.ndural.ru$ [NC]
+
+RewriteRule ^(.*)$ http://ndural.ru/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond %{REQUEST_URI} !^/index.php
+
+RewriteCond %{REQUEST_URI} (/|\.php|\.html|\.feed|\.pdf|\.raw|/[^.]*)$  [NC]
+
+RewriteRule (.*) index.php?$1
+
+
+
+#RewriteRule (/php.php) index.php
+
+#RewriteRule ^(.*)$ index.php?$1
+
+ErrorDocument 404 http://ndural.ru/
+
+AddDefaultCharset UTF-8

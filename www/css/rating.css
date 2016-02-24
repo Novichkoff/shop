@@ -1,0 +1,38 @@
+/* Блок рейтинга*/
+#raiting {
+  position:relative; 
+  height:16px; 
+  cursor:pointer; 
+  width:83px; 
+  float:left;
+}
+#raiting_blank, #raiting_votes, #raiting_hover {
+  height:16px; 
+  position:absolute
+}
+/* "Чистые" звездочки */
+#raiting_blank { 
+  background:url(/images/ratings.png); 
+  width:83px; 
+}
+/*  Закрашенные звездочки */
+#raiting_votes {
+  background:url(/images/ratings.png) 0 -16px
+}
+/*  звездочки при голосовании */
+#raiting_hover {
+  background:url(/images/ratings.png) 0 -32px; 
+  display:none
+}
+#raiting_info {
+  margin-left:100px
+}
+#raiting_info img{
+  vertical-align:middle;
+  margin:0 5px;
+  display:none
+}
+#raiting_info h5{
+  margin:10px;
+  font-size:12px;
+}

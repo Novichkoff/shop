@@ -1,0 +1,3834 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2014-08-31 14:26">
+	<shop>
+		<name>Интернет автомагазин в Екатеринбурге</name>
+		<company>Продажа автосигнализаций, автомагнитол, усилителей, шумоизоляции и видеорегистраторов в Екатеринбурге</company>
+		<url>http://ndural.ru</url>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+
+		<categories>
+			<category id="38">Сигнализации</category>
+				<category id="42" parentId="38">Простые</category>
+				<category id="44" parentId="38">С обратной связью</category>
+				<category id="45" parentId="38">С автозапуском</category>
+				<category id="1006" parentId="38">Иммобилайзеры</category>
+				<category id="1007" parentId="38">Аксессуары</category>
+				<category id="1008" parentId="38">Брелки и чехлы</category>
+
+			<category id="39">Автомагнитолы</category>
+				<category id="43" parentId="39">CD-MP3</category>
+				<category id="1011" parentId="39">DVD</category>
+				<category id="1012" parentId="39">USB</category>
+				<category id="1016" parentId="39">Антенны</category>
+				<category id="1018" parentId="39">Разъемы</category>
+				<category id="1027" parentId="39">MP3</category>
+
+			<category id="40">Усилители</category>
+				<category id="1023" parentId="40">4-канальные</category>
+				<category id="1024" parentId="40">2-канальные</category>
+				<category id="1030" parentId="40">5-канальные</category>
+				<category id="1031" parentId="40">Одноканальные</category>
+				<category id="1038" parentId="40">3-канальные</category>
+
+			<category id="41">Сабвуферы</category>
+				<category id="1042" parentId="41">Активные</category>
+				<category id="1043" parentId="41">Отдельные динамики</category>
+				<category id="1044" parentId="41">Пассивные</category>
+				<category id="1045" parentId="41">Сабвуферные комплекты</category>
+				<category id="1046" parentId="41">Контактные группы</category>
+
+			<category id="47">Электроника</category>
+				<category id="48" parentId="47">Видеорегистраторы</category>
+				<category id="1013" parentId="47">Видеокамеры заднего вида</category>
+				<category id="1015" parentId="47">Парктроники</category>
+				<category id="1025" parentId="47">Бортовые компьютеры</category>
+				<category id="1032" parentId="47">Лампы галогеновые</category>
+				<category id="1035" parentId="47">Tv-тюнеры цифровые</category>
+				<category id="1039" parentId="47">Предохранители</category>
+				<category id="1040" parentId="47">Секретки</category>
+				<category id="1047" parentId="47">Салонные зеркала</category>
+
+			<category id="1000">Акустика</category>
+				<category id="1001" parentId="1000">Установочный комплект</category>
+				<category id="1004" parentId="1000">Компонентные АС</category>
+				<category id="1005" parentId="1000">Коаксиальные АС</category>
+				<category id="1009" parentId="1000">Портативные АС</category>
+				<category id="1010" parentId="1000">Широкополосные АС</category>
+				<category id="1017" parentId="1000">Цифровые вольтметры</category>
+				<category id="1036" parentId="1000">Среднечастотные АС</category>
+				<category id="1037" parentId="1000">Твитеры</category>
+
+			<category id="1002">Навигаторы</category>
+				<category id="1041" parentId="1002">Портативные</category>
+
+			<category id="1003">Кабели</category>
+				<category id="1020" parentId="1003">Защитные кабельные оплетки</category>
+				<category id="1021" parentId="1003">Зажимы</category>
+				<category id="1022" parentId="1003">Акустические</category>
+				<category id="1026" parentId="1003">Межблочные</category>
+				<category id="1028" parentId="1003">Блоки для предохранителей</category>
+				<category id="1029" parentId="1003">Коннекторы</category>
+
+			<category id="1033">Шумоизоляция</category>
+				<category id="1034" parentId="1033">Уплотнительно-декоративные материалы</category>
+		</categories>
+		<local_delivery_cost>200</local_delivery_cost>
+		<offers>
+
+			<offer id="28" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ezbeta_ver2</url>
+				<price>3290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/00028.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-beta ver.2</model>
+				<description>Jaguar EZ-beta - надежная и простая в управлении автосигнализация с двусторонней связью и функцией автозапуска. Автосигнализация оснащена 4-кнопочным брелком.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="30" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ez-three</url>
+				<price>3550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/00030.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-three</model>
+				<description>Обратная связь: Да
+Запуск двигателя: Да
+Запуск по температуре: Да
+Брелок с ЖК-дисплеем: Да
+Дальность действия: 600 м
+Турботаймер: Да
+Виброоповещение:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="32" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ez-7</url>
+				<price>4090</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/00032.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-7</model>
+				<description>Обратная связь: Да
+Запуск двигателя: Да
+Запуск по температуре: Да
+Брелок с ЖК-дисплеем: Да
+Дальность действия: 600 м
+Турботаймер: Да
+Виброоповещение:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="33" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ez-10</url>
+				<price>4750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/00033.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-10</model>
+				<description>Обратная связь: Да
+Запуск двигателя: Да
+Запуск по температуре: Да
+Брелок с ЖК-дисплеем: Да
+Дальность действия: 600 м
+Турботаймер: Да
+Виброоповещение:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="34" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ez-ultra</url>
+				<price>6190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/00034.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-ultra</model>
+				<description>Обратная связь: Да
+Запуск двигателя: Да
+Запуск по температуре: Да
+Брелок с ЖК-дисплеем: Да
+Дальность действия: 600 м
+Турботаймер: Да
+Anti-Hi-Jack: Да
+</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="36" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_xj-770</url>
+				<price>5250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>44</categoryId>
+				<picture>http://ndural.ru/images/products/00036.jpg</picture>
+				<typePrefix>Автосигнализация с обратной связью</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar xj-770</model>
+				<description>Обратная связь: Да
+Запуск двигателя: Нет
+Запуск по температуре: Нет
+Брелок с ЖК-дисплеем: Да
+Дальность действия: 2000 м
+Турботаймер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="37" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_xj777</url>
+				<price>12350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/00037.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar xj-777</model>
+				<description>Обратная связь: Да
+Запуск двигателя: Да
+Запуск по температуре: Да
+Брелок с ЖК-дисплеем: Да
+Дальность действия: 1200 м
+Турботаймер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="43" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pantera_slk-625rs_ver2</url>
+				<price>3550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>44</categoryId>
+				<picture>http://ndural.ru/images/products/00043.jpg</picture>
+				<typePrefix>Автосигнализация с обратной связью</typePrefix>
+				<vendor>Pantera</vendor>
+				<model>Pantera slk-625rs ver.2</model>
+				<description>сирена в комплекте, брелок с ЖК-дисплеем, таймер, часы, будильник, овместимость с бензиновым и дизельным двигателем, ручной и автоматической.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="46" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pantera_slk-775rs</url>
+				<price>4590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/00046.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Pantera</vendor>
+				<model>Pantera slk-775rs</model>
+				<description>Обратная связь: Да
+Запуск двигателя: Да
+Запуск по температуре: Да
+Брелок с ЖК-дисплеем: Да
+Дальность действия: 800 м
+Турботаймер: Да
+Виброоповещение:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="49" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/saturn_ci-55</url>
+				<price>3450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/00049.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Saturn ci-55</model>
+				<description>Иммобилайзер последнего поколения Saturn CI-55 предназначен для предотвращения угона автомобиля путем попыток скрытого проникновения, а также для противодействия захвату транспортного средства.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="60" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_ms-2</url>
+				<price>7120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/00060.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl ms-2</model>
+				<description>Тип: компонентная АС
+Номинальная мощность: 160 Вт
+Максимальная мощность: 320 Вт
+Параметры измерения чувствительности: Вт/м
+Минимальная частота: 70.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="68" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_gto-1014</url>
+				<price>3450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/00068.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl gto-1014</model>
+				<description>Тип: сабвуфер
+Типоразмер: 25 см (10 дюйм.)
+Количество полос: 1
+Мощность: 350 Вт (номинальная), 1400 Вт (максимальная)
+Чувствительность: 88 дБ (2.83.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="71" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_gto1214_br</url>
+				<price>11390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1044</categoryId>
+				<picture>http://ndural.ru/images/products/00071.jpg</picture>
+				<typePrefix>Пассивный сабвуфер</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl gto-1214 br</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 350 Вт (номинальная), 1400 Вт (максимальная)
+Чувствительность: 90.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="75" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_cs-2165</url>
+				<price>1730</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/00075.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl cs-2165</model>
+				<description>Тип: компонентная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 2
+Мощность: 45 Вт (номинальная), 135 Вт (максимальная)
+Чувствительность: 91.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="77" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_cs-3196</url>
+				<price>2380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/00077.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl cs-3196</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: овальный 15x23 см (6x9 дюйм.)
+Количество полос: 3
+Мощность: 70 Вт (номинальная), 210 Вт.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="79" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_cs-1214</url>
+				<price>2690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/00079.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl cs-1214</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 250 Вт (номинальная), 1000 Вт (максимальная)
+Чувствительность: 93.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="90" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_gto-528</url>
+				<price>1890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/00090.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl gto-528</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: 13 см (5 дюйм.)
+Количество полос: 2
+Мощность: 45 Вт (номинальная), 135 Вт (максимальная)
+Чувствительность: 91.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="91" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_gto-628</url>
+				<price>2290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/00091.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl gto-628</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 2
+Мощность: 60 Вт (номинальная), 180 Вт (максимальная)
+Чувствительность: 92.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="94" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_gto-6528</url>
+				<price>2240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/00094.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl gto-6528</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 2
+Мощность: 55 Вт (номинальная), 165 Вт (максимальная)
+Чувствительность: 92.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="166" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_mdn-270t</url>
+				<price>11040</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/000166.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology mdn-270t</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: есть
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="168" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_mdn-2640t</url>
+				<price>8990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/000168.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology mdn-2640t</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: есть
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="170" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_mdn-2670t</url>
+				<price>11890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/000170.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology mdn-2670t</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: есть
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="171" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_mdn2670t_vr</url>
+				<price>14440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/000171.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology mdn-2670t vr</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: есть
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="172" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_mdn-2680t</url>
+				<price>12590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/000172.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology mdn-2680t</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: есть
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="174" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_mdn-2745t</url>
+				<price>11890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/000174.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology mdn-2745t</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: есть
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="175" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_mdn-2750t</url>
+				<price>11890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/000175.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology mdn-2750t</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: есть
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="229" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_nx1322__mkiii</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000229.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology nx-1322  MKIII</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: 13 см (5 дюйм.)
+Количество полос: 2
+Мощность: 90 Вт (максимальная)
+Чувствительность: 90 дБ
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="230" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_nx1323_mkiii</url>
+				<price>780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000230.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology nx-1323 mkiii</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: 13 см (5 дюйм.)
+Количество полос: 3
+Мощность: 90 Вт (максимальная)
+Чувствительность: 90 дБ
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="232" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_nx-1823</url>
+				<price>980</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000232.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology nx-1823</model>
+				<description>Тип: коаксиальная АС
+Количество полос: 3
+Мощность: 150 Вт (максимальная)
+Диапазон воспроизводимых частот: 45 - 25000 Гц
+Размеры: 25 мм
+Магнит:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="234" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_nx52_mkiii</url>
+				<price>890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/000234.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology nx-5.2 mkiii</model>
+				<description>Тип: компонентная АС
+Типоразмер: 13 см (5 дюйм.)
+Количество полос: 2
+Мощность: 180 Вт (максимальная)
+Чувствительность: 91 дБ
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="237" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_es-522</url>
+				<price>800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000237.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology es-522</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: 13 см (5 дюйм.)
+Количество полос: 2
+Мощность: 120 Вт (максимальная)
+Чувствительность: 91 дБ
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="239" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_es-622</url>
+				<price>980</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000239.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology es-622</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 2
+Мощность: 130 Вт (максимальная)
+Чувствительность: 91 дБ
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="240" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_es-692</url>
+				<price>1430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000240.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology es-692</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: овальный 15x23 см (6x9 дюйм.)
+Количество полос: 2
+Мощность: 200 Вт (максимальная)
+Чувствительность: 92 дБ
+Диапазон.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="243" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_es-52c</url>
+				<price>1700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/000243.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology es-52c</model>
+				<description>Тип: компонентная АС
+Типоразмер: 13 см (5 дюйм.)
+Количество полос: 2
+Мощность: 200 Вт (максимальная)
+Чувствительность: 91 дБ
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="249" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_cx1623_mkii</url>
+				<price>1160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000249.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology cx-1623 mkii</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 3
+Мощность: 130 Вт (максимальная)
+Чувствительность: 91 дБ
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="250" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_cx-1823</url>
+				<price>1160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000250.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology cx-1823</model>
+				<description>18 см, 2-х полосная коаксиальная а/с серии Competition, 150 Вт макс.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="253" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_cx-52c_mkii</url>
+				<price>1250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/000253.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology cx-5.2c mkii</model>
+				<description>13 см (5.25") двухполосная компонентная акустическая система мощностью 200 Вт</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="254" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_cx-62c_mkii</url>
+				<price>1340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/000254.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology cx-6.2c mkii</model>
+				<description>16 см, 2-х компонентная а/с серии Competition, 220 Вт макс</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="259" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_cs-52c</url>
+				<price>890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/000259.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology cs-5.2c</model>
+				<description>Тип: компонентная АС
+Типоразмер: 13 см (5 дюйм.)
+Количество полос: 2
+Мощность: 120 Вт (максимальная)
+Чувствительность: 85 дБ
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="700" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/mb_quart_osc_216</url>
+				<price>3771</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/000700.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>MB Quart</vendor>
+				<model>Mb quart osc 216</model>
+				<description>Тип: компонентная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 2
+Мощность: 45 Вт (номинальная), 90 Вт (максимальная)
+Чувствительность: 88 дБ.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="712" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/mb_quart_onx_460</url>
+				<price>5054</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://ndural.ru/images/products/000712.jpg</picture>
+				<typePrefix>4-х канальный автомобильный усилитель</typePrefix>
+				<vendor>MB Quart</vendor>
+				<model>Mb quart onx 4.60</model>
+				<description>Усилитель 4-канальный, класс AB, MB Quart ONX 4.60
+Серия: ONYX
+Габариты, мм: 350 х 230 х 64
+Стабильная работа на нагрузку 4 или 2 Ом, черная высококачественная печатная плата</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="748" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_vx-5c</url>
+				<price>2421</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000748.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar vx-5c</model>
+				<description>Тип: коаксиальная АС
+Номинальная мощность: 80 Вт
+Максимальная мощность: 160 Вт
+Минимальная частота: 66 Гц
+Максимальная частота: 22000 Гц
+Импеданс: 4.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="749" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_vx-6c</url>
+				<price>2601</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/000749.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar vx-6c</model>
+				<description>Тип: компонентная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 2
+Мощность: 120 Вт (номинальная), 240 Вт (максимальная)
+Чувствительность: 91.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="756" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_aq5dcw</url>
+				<price>1071</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1010</categoryId>
+				<picture>http://ndural.ru/images/products/000756.jpg</picture>
+				<typePrefix>Широкополосная акустическая система</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar aq5dcw</model>
+				<description>Тип: широкополосная АС
+Типоразмер: 13 см (5 дюйм.)
+Количество полос: 1
+Мощность: 150 Вт (номинальная), 300 Вт (максимальная)
+Чувствительность: 89.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="759" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_aq6dcs</url>
+				<price>1341</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1010</categoryId>
+				<picture>http://ndural.ru/images/products/000759.jpg</picture>
+				<typePrefix>Широкополосная акустическая система</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar aq6dcs</model>
+				<description>Тип: широкополосная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 1
+Мощность: 360 Вт (максимальная)
+Чувствительность: 90 дБ
+Диапазон.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="768" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_mx_63</url>
+				<price>1071</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000768.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar mx 63</model>
+				<description>Тип: коаксиальная АС
+Номинальная мощность: 100 Вт
+Максимальная мощность: 200 Вт
+Минимальная частота: 66 Гц
+Максимальная частота: 20000 Гц
+Импеданс: 4.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="771" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_mx_6c</url>
+				<price>2187</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000771.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar mx 6c</model>
+				<description>Тип: компонентная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 2
+Мощность: 100 Вт (номинальная), 200 Вт (максимальная)
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="801" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_vb-62</url>
+				<price>1701</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/000801.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar vb-6.2</model>
+				<description>Тип: коаксиальная АС
+Количество полос: 2
+Мощность: 120 Вт (номинальная), 240 Вт (максимальная)
+Чувствительность: 90 дБ
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="835" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_mxa_414</url>
+				<price>4761</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://ndural.ru/images/products/000835.jpg</picture>
+				<typePrefix>4-х канальный автомобильный усилитель</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar mxa 414</model>
+				<description>Количество каналов: 4-канальный
+Выходная мощность на канал 4 Ом: 500 Вт
+Выходная мощность, мостовой режим, 4 Ом: 1000 Вт
+Частота минимальная: 15.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="837" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_mnx_460</url>
+				<price>4491</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://ndural.ru/images/products/000837.jpg</picture>
+				<typePrefix>4-х канальный автомобильный усилитель</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar mnx 460</model>
+				<description>Количество каналов: 4-канальный
+Выходная мощность на канал 2 Ом: 320 Вт
+Выходная мощность на канал 4 Ом: 200 Вт
+Частота минимальная: 20 Гц
+Частота.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="851" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_vibe_412</url>
+				<price>5890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://ndural.ru/images/products/000851.jpg</picture>
+				<typePrefix>4-х канальный автомобильный усилитель</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar vibe 412</model>
+				<description>
+Электронный кроссовер 
+Схема повышения уровня низких частот (Bass Boost) 
+Работа на нагрузку 4 Ом при подключении по мостовой схеме 
+Стабильная.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="860" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_htg_2100d</url>
+				<price>7101</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1031</categoryId>
+				<picture>http://ndural.ru/images/products/000860.jpg</picture>
+				<typePrefix>Одноканальный автомобильный усилитель</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar htg 2100d</model>
+				<description>1 х 350 Вт (RMS) при 4 Ом, 1 х 550 Вт (RMS) при 2 Ом, 1 х 800 Вт (RMS) при 1 Ом, мощность максимальная 1 х 2000 Вт при 1 Ом, Bass Boost, LPF 50 – 250.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="864" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_htg_237</url>
+				<price>2988</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/000864.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar htg 237</model>
+				<description>2 x 60 Вт (RMS) / 2 х 120 Вт (макс) при 4 Ом, 2 х 90 Вт (RMS) при 2 Ом, 1 х 500 Вт (макс) при 4 Ом, Bass Boost, ФНЧ 50 Гц - 250 Гц, ФВЧ 50 Гц - 250.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1016" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alligator_c-200</url>
+				<price>3578</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>44</categoryId>
+				<picture>http://ndural.ru/images/products/0001016.jpg</picture>
+				<typePrefix>Автосигнализация с обратной связью</typePrefix>
+				<vendor>Alligator</vendor>
+				<model>Alligator c-200</model>
+				<description>Alligator C-200 – полноценный охранный комплекс с двусторонней связью. Канал связи защищён усовершенствованным динамическим кодом KeeloqTM, который.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1018" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ez-7_can</url>
+				<price>4076</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/0001018.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-7 can</model>
+				<description>Обратная связь: Да
+Запуск двигателя: Да
+Запуск по температуре: Да
+Брелок с ЖК-дисплеем: Да
+Дальность действия: 600 м
+Турботаймер: Да
+Виброоповещение:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1019" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alligator_c-300</url>
+				<price>3696</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/0001019.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Alligator</vendor>
+				<model>Alligator c-300</model>
+				<description>Автосигнализация Alligator С-300 – полноценный охранный комплекс с двусторонней связью и функцией дистанционного запуска двигателя.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1020" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alligator_c-500</url>
+				<price>7306</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/0001020.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Alligator</vendor>
+				<model>Alligator c-500</model>
+				<description>Alligator C-500 — это полноценный охранный комплекс класса «Премиум» с двусторонней связью, с функциями передачи дистанционных команд  и оповещений</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1021" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alligator_c-500_can</url>
+				<price>9383</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/0001021.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Alligator</vendor>
+				<model>Alligator c-500 can</model>
+				<description>Обратная связь: Да
+Запуск двигателя: Да
+Запуск по температуре: Да
+Брелок с ЖК-дисплеем: Да
+Дальность действия: 2000 м
+Турботаймер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1022" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alligator_s-975_rs</url>
+				<price>5657</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/0001022.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Alligator</vendor>
+				<model>Alligator s-975 rs</model>
+				<description>Применение технологии «BILARM» гарантирует контроль связи с автомобилем и в случае изменения любого состояния автомобиля незамедлительно.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1023" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alligator_sp-55_rs</url>
+				<price>5387</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/0001023.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Alligator</vendor>
+				<model>Alligator sp-55 rs</model>
+				<description>Модель SP-55RS – охранная система с двусторонней связью, а также с автоматическим и дистанционным запуском двигателя.
+Функция автозапуска:
+- позволит.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1024" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alligator_sp-55_rs_can</url>
+				<price>7142</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/0001024.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Alligator</vendor>
+				<model>Alligator sp-55 rs can</model>
+				<description> Alligator sp-55 rs can – охранная система с двусторонней связью и can-модуль Saturn MultiCAN-400 в комплекте, а также с автоматическим и.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1025" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alligator_sp-75_rs</url>
+				<price>5927</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>44</categoryId>
+				<picture>http://ndural.ru/images/products/0001025.jpg</picture>
+				<typePrefix>Автосигнализация с обратной связью</typePrefix>
+				<vendor>Alligator</vendor>
+				<model>Alligator sp-75 rs</model>
+				<description>Alligator SP-75RS - охранная система с двусторонней связью, а также с автоматическим и дистанционным запуском двигателя. Оцените новейший диалоговый.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1026" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alligator_sp-75_rs_can</url>
+				<price>7682</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/0001026.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Alligator</vendor>
+				<model>Alligator sp-75 rs can</model>
+				<description>Alligator SP-75 RS   MultiCAN 400</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1027" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ez-four_ver2</url>
+				<price>6356</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>45</categoryId>
+				<picture>http://ndural.ru/images/products/0001027.jpg</picture>
+				<typePrefix>Автосигнализация с автозапуском</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-four ver.2</model>
+				<description>Обратная связь: Да
+Запуск двигателя: Да
+Запуск по температуре: Да
+Брелок с ЖК-дисплеем: Да
+Дальность действия: 600 м
+Турботаймер: Да
+Виброоповещение:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1029" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/bilarm_gsmgps_universal</url>
+				<price>9180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001029.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Bilarm gsm-gps universal</model>
+				<description>GPS/GSM-модуль, управление модулем при помощи GSM-телефона посредством SMS-сообщений или голосового русскоязычного меню</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1030" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/starline_sl2_24v</url>
+				<price>122</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001030.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Starline</vendor>
+				<model>Starline sl-2 24v</model>
+				<description>электропривод замкам двери 2-х проводный 24 Вольт</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1032" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/spirit_11</url>
+				<price>1215</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1006</categoryId>
+				<picture>http://ndural.ru/images/products/0001032.jpg</picture>
+				<typePrefix>Иммобилайзер</typePrefix>
+				<vendor>Polar Wolf</vendor>
+				<model>Spirit 11</model>
+				<description>Иммобилайзер - секретка Spirit-11 создан для замены популярного ветерана Spirit-1 и продолжает идеологию доступного, надежного, простого</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1033" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/spirit_25</url>
+				<price>4253</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1040</categoryId>
+				<picture>http://ndural.ru/images/products/0001033.jpg</picture>
+				<typePrefix>Секретка</typePrefix>
+				<vendor>Polar Wolf</vendor>
+				<model>Spirit 25</model>
+				<description>герметичное миниатюрное исполнение, монтаж под капотом, управление одной кнопкой, аналоговой (от набора резисторов) или дискретной, в том числе,.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1034" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/spirit_401</url>
+				<price>7965</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1006</categoryId>
+				<picture>http://ndural.ru/images/products/0001034.jpg</picture>
+				<typePrefix>Иммобилайзер</typePrefix>
+				<vendor>Polar Wolf</vendor>
+				<model>Spirit 401</model>
+				<description>Охранно-противоугонная система Spirit-401 (CAN*) - топовая охранно-противоугонная система линейки Spirit управляемая индивидуальным Pin-кодом</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1035" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ez-alpha_2-way_tx_ver2</url>
+				<price>2363</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001035.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-alpha 2-way tx ver.2</model>
+				<description>брелок с ЖК-дисплеем в прорезиненном корпусе для Jaguar EZ-ALFA (подходит для сигнализации StarLine A6)</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1036" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ez-beta_2-way_tx_ver2</url>
+				<price>2228</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001036.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-beta 2-way tx ver.2</model>
+				<description>брелок с ЖК-дисплеем в прорезиненном корпусе для Jaguar EZ-BETA (подходит для сигнализаций StarlLine A8, A9)</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1037" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ez-one_2-way_tx_ver2</url>
+				<price>2228</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001037.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-one 2-way tx ver.2</model>
+				<description>брелок с ЖК-дисплеем в прорезиненном корпусе для Jaguar EZ-ONE (подходит для сигнализации StarlLne B9)</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1038" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_ez-6_2-way_tx</url>
+				<price>2363</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001038.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar ez-6 2-way tx</model>
+				<description>брелок с ЖК-дисплеем в прорезиненном корпусе для Jaguar EZ-6 (диалоговый код)</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1039" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jaguar_xj-777_2-way_tx</url>
+				<price>4577</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001039.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Jaguar xj-777 2-way tx</model>
+				<description>брелок с OLED-дисплеем для Jaguar XJ-777</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1040" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pantera_slk-355_1-way_tx</url>
+				<price>446</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001040.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Pantera</vendor>
+				<model>Pantera slk-355 1-way tx</model>
+				<description>брелок для сигнализации Pantera CLK-355, односторонний</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1041" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/chehol_brelka_jaguar_ez-7_10_ultra</url>
+				<price>122</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001041.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Чехол брелка jaguar ez-7/10/ultra</model>
+				<description>кожаный чехол на кнопке для сигнализации JAGUAR серии EZ - 7/10/Ultra</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1042" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/chehol_brelka_jaguar_ez-one</url>
+				<price>122</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001042.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Чехол брелка jaguar ez-one</model>
+				<description>кожаный чехол на кнопке для сигнализации JAGUAR серии EZ -Alpha, Beta, One, Gamma, Three, 5, 6</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1043" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/chehol_brelka_jaguar_ez-four</url>
+				<price>162</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001043.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Чехол брелка jaguar ez-four</model>
+				<description>кожаный чехол на кнопке для сигнализации JAGUAR EZ-FOUR (подходит для брелков Sher-Khan моделей 7 - 9)</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1044" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/chehol_brelka_jaguar_xj770_xj777</url>
+				<price>5216</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001044.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Jaguar</vendor>
+				<model>Чехол брелка jaguar xj-770 xj-777</model>
+				<description>кожаный чехол на кнопке для сигнализации JAGUAR XJ-770/777</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1045" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/chehol_brelka_pantera_qx</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001045.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Pantera</vendor>
+				<model>Чехол брелка pantera qx</model>
+				<description>кожаный чехол на кнопке для сигнализаций PANTERA серии QX</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1046" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/chehol_brelka_pantera_qx_luxe</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001046.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Pantera</vendor>
+				<model>Чехол брелка pantera qx luxe</model>
+				<description>кожаный чехол на кнопке для сигнализаций PANTERA серии QX</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1047" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/chehol_brelka_pantera_slk</url>
+				<price>122</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001047.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Pantera</vendor>
+				<model>Чехол брелка pantera slk</model>
+				<description>кожаный чехол на кнопке для сигнализаций PANTERA серии SLK (600, 625, 650, 675)</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1048" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/chehol_brelka_sheriff_zx950_1060</url>
+				<price>162</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1008</categoryId>
+				<picture>http://ndural.ru/images/products/0001048.jpg</picture>
+				<typePrefix>Брелок (чехол)</typePrefix>
+				<vendor>Sheriff</vendor>
+				<model>Чехол брелка sheriff zx-950 1060</model>
+				<description>кожаный чехол на кнопке для брелков сигнализаций Sheriff ZX-950/1060</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1049" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pit_pi-770m_datchik_udara</url>
+				<price>243</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001049.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Pit</vendor>
+				<model>Pit pi-770m датчик удара</model>
+				<description>PI-770M это  магниторезонансный (микрофонный) пьезоэлектрический датчик удара. Два светодиода индикации зон срабатывания, зеленый – зона.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1052" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/saturn_multican_400_ver2</url>
+				<price>2025</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001052.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Saturn multican 400 ver.2</model>
+				<description>CAN модуль Saturn MultiCAN 400 предназначен для обеспечения корректной установки дополнительных систем сигнализации, не предназначенных для работы с шиной CAN напрямую</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1053" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/saturn_multican_100</url>
+				<price>2417</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001053.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Saturn multican 100</model>
+				<description>CAN-модуль Saturn MultiCAN-100 предназначен для подключения автомобильных сигнализаций и иммобилайзеров к современным цифровым CAN-шинам управления.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1054" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pit_tms202xl_datchik_naklona</url>
+				<price>446</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001054.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Pit</vendor>
+				<model>Pit tms-202xl датчик наклона</model>
+				<description>датчик наклона/перемещения, фиксирует начальный угол наклона автомобиля независимо по горизонтали и вертикали при каждой парковке автомобиля</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1055" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/saturn_au-60_blok_obhoda</url>
+				<price>446</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001055.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Saturn au-60 блок обхода</model>
+				<description>блок обхода штатного иммобилайзера</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1056" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/saturn_mms-1</url>
+				<price>473</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001056.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Saturn mms-1</model>
+				<description>датчик микроволновой однозонный</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1057" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/saturn_ms-2</url>
+				<price>122</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001057.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Saturn ms-2</model>
+				<description>2-х проводной электропривод замка двери</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1058" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/saturn_ms-200</url>
+				<price>257</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001058.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Saturn ms-200</model>
+				<description>2-х проводной усиленный электропривод замка двери</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1059" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/saturn_ms-3</url>
+				<price>108</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001059.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Saturn ms-3</model>
+				<description>2-х проводной электропривод замка двери, индивидуальная картонная упаковка</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1060" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/saturn_ms-5</url>
+				<price>176</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001060.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Saturn ms-5</model>
+				<description>5-и проводной электропривод замка двери</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1061" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/saturn_t1</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001061.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Saturn t1</model>
+				<description>внешний датчик температуры для сигнализаций с запуском Ягуар, Пантера</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1062" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/sirena_cs532</url>
+				<price>122</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1007</categoryId>
+				<picture>http://ndural.ru/images/products/0001062.jpg</picture>
+				<typePrefix>Аксессуар для автосигнализации</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Сирена cs-532</model>
+				<description>сирена неавтономная</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1065" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/parkmaster_4bj006b_chernyj</url>
+				<price>1796</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1015</categoryId>
+				<picture>http://ndural.ru/images/products/0001065.jpg</picture>
+				<typePrefix>Парктроник</typePrefix>
+				<vendor>Parkmaster</vendor>
+				<model>Parkmaster 4-bj-006-b черный</model>
+				<description>4 задних датчика (черного цвета) с разъемным соединением, дисплей со светодиодной шкалой, цифровым индикатором и звуковым бипером, комплект проводов</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1066" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/megaforcer_mrf23b</url>
+				<price>1490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1015</categoryId>
+				<picture>http://ndural.ru/images/products/0001066.jpg</picture>
+				<typePrefix>Парктроник</typePrefix>
+				<vendor>Megaforcer</vendor>
+				<model>Megaforcer MRF-23B</model>
+				<description>Парктроник MEGAFORCER MRF-23B светодиодный дисплей, чёрный, 4 датчика, оснащен информативным индикатором, имеет функцию самодиагностики</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1067" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/parkmaster_4zj51b_chernyj</url>
+				<price>2120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1015</categoryId>
+				<picture>http://ndural.ru/images/products/0001067.jpg</picture>
+				<typePrefix>Парктроник</typePrefix>
+				<vendor>Parkmaster</vendor>
+				<model>Parkmaster 4-zj-51-b черный</model>
+				<description>4 задних датчика (черного цвета) с разъемным соединением, дисплей со светодиодной шкалой, цифровым индикатором и звуковым бипером, комплект проводов,.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1070" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/acumen_crvi_6s</url>
+				<price>1877</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1015</categoryId>
+				<picture>http://ndural.ru/images/products/0001070.jpg</picture>
+				<typePrefix>Парктроник</typePrefix>
+				<vendor>Acumen</vendor>
+				<model>Acumen crv-i 6s</model>
+				<description>2 передних   4 задних датчика (серебристого цвета), дисплей</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1072" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/blok_osnovnoj_acumen_8_datchikov</url>
+				<price>743</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1015</categoryId>
+				<picture>http://ndural.ru/images/products/0001072.jpg</picture>
+				<typePrefix>Парктроник</typePrefix>
+				<vendor>Acumen</vendor>
+				<model>Блок основной acumen 8 датчиков</model>
+				<description>основной блок для моделей Acumen CRB/CRV на 8 датчиков</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1074" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/datchik_acumen_chernyj</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1015</categoryId>
+				<picture>http://ndural.ru/images/products/0001074.jpg</picture>
+				<typePrefix>Парктроник</typePrefix>
+				<vendor>Acumen</vendor>
+				<model>Датчик acumen черный</model>
+				<description>отдельный датчик черного цвета для парковочных радаров Acumen, d = 22 мм</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1075" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap5300__blackred</url>
+				<price>3078</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001075.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-5300  black-red</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1076" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap5300</url>
+				<price>3078</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001076.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-5300</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1077" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap-534_bt</url>
+				<price>3591</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001077.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-534 bt</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1078" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap-560_tr</url>
+				<price>4388</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001078.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-560 tr</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1079" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap-580_tr</url>
+				<price>4847</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001079.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-580 tr</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1080" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap-605_a</url>
+				<price>5117</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001080.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-605 a</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1081" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap-7000_tab</url>
+				<price>6548</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001081.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-7000 tab</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1082" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap-7100</url>
+				<price>3888</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001082.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-7100</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1083" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap727mg</url>
+				<price>3990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001083.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology iMAP-727MG</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Поддержка ГЛОНАСС: есть
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1084" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap-730_ti</url>
+				<price>6615</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001084.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-730 ti</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1085" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap7300_black</url>
+				<price>3740</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001085.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-7300 black</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1086" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap7300_blackred</url>
+				<price>3740</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001086.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-7300 black-red</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1087" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_imap7300_blackwhite</url>
+				<price>3740</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1041</categoryId>
+				<picture>http://ndural.ru/images/products/0001087.jpg</picture>
+				<typePrefix>Портативный автонавигатор</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology imap-7300 black-white</model>
+				<description>Тип: портативный
+Область применения: автомобильный
+Программное обеспечение: Навител
+Встроенная карта: есть
+Возможность загрузки карты местности:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1089" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_pt__4tc_4_datchika</url>
+				<price>2660</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1015</categoryId>
+				<picture>http://ndural.ru/images/products/0001089.jpg</picture>
+				<typePrefix>Парктроник</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics pt - 4tc 4 датчика</model>
+				<description>Парковочный радар Multitronics PT-4TC версия 3 включает в себя 4 ультразвуковых датчика (черного или серого цвета) и системный блок</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1090" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_x_140</url>
+				<price>3355</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001090.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics x 140</model>
+				<description>
+Многоцветные мультидисплейные графические маршрутные компьютеры Multitronics X140 предназначены для установки в а/м ВАЗ семейства "Самара" и.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1092" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/parkvision_pvr_-_50g</url>
+				<price>1661</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>48</categoryId>
+				<picture>http://ndural.ru/images/products/0001092.jpg</picture>
+				<typePrefix>Видеорегистратор</typePrefix>
+				<vendor>Parkvision</vendor>
+				<model>Parkvision pvr - 50g</model>
+				<description>GPS-приемник для отображения местоположения на карте, изменяемая частота записи (10, 16, 24, 30 кадров в сек), поддержка карт памяти SD и SDHC до 32.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1093" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alpine_cde-110_ub</url>
+				<price>3348</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>43</categoryId>
+				<picture>http://ndural.ru/images/products/0001093.jpg</picture>
+				<typePrefix>CD-MP3 автомагнитола</typePrefix>
+				<vendor>Alpine</vendor>
+				<model>Alpine cde-110 ub</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: нет
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1094" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/alpine_cde-170_rr</url>
+				<price>4293</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1012</categoryId>
+				<picture>http://ndural.ru/images/products/0001094.jpg</picture>
+				<typePrefix>USB автомагнитола</typePrefix>
+				<vendor>Alpine</vendor>
+				<model>Alpine cde-170 rr</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: нет
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1095" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pioneer_deh1500ub</url>
+				<price>3190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>43</categoryId>
+				<picture>http://ndural.ru/images/products/0001095.jpg</picture>
+				<typePrefix>CD-MP3 автомагнитола</typePrefix>
+				<vendor>Pioneer</vendor>
+				<model>Pioneer deh-1500ub</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: нет
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1096" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pioneer_deh-1500_uba</url>
+				<price>3173</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1012</categoryId>
+				<picture>http://ndural.ru/images/products/0001096.jpg</picture>
+				<typePrefix>USB автомагнитола</typePrefix>
+				<vendor>Pioneer</vendor>
+				<model>Pioneer deh-1500 uba</model>
+				<description>Встроенный усилитель DEH-1500UB, построенный на MOFSET-каскадах, обеспечивает безупречный звук мощностью 4 x 50Вт.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1097" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pioneer_deh-1500_ubb</url>
+				<price>3173</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1012</categoryId>
+				<picture>http://ndural.ru/images/products/0001097.jpg</picture>
+				<typePrefix>USB автомагнитола</typePrefix>
+				<vendor>Pioneer</vendor>
+				<model>Pioneer deh-1500 ubb</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: нет
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1098" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pioneer_deh-1500_ubg</url>
+				<price>3173</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1012</categoryId>
+				<picture>http://ndural.ru/images/products/0001098.jpg</picture>
+				<typePrefix>USB автомагнитола</typePrefix>
+				<vendor>Pioneer</vendor>
+				<model>Pioneer deh-1500 ubg</model>
+				<description>CD/MP3-ресивер, 4 х 50 Вт, съемная  передняя панель, RDS, AUX-In, 1 RCA, USB вход на передней панели, вход для проводного ПДУ, ЖК дисплей с белой.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1099" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pioneer_mvh-150ub</url>
+				<price>2322</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1012</categoryId>
+				<picture>http://ndural.ru/images/products/0001099.jpg</picture>
+				<typePrefix>USB автомагнитола</typePrefix>
+				<vendor>Pioneer</vendor>
+				<model>Pioneer mvh-150ub</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: нет
+MP3-проигрыватель: есть
+DVD-проигрыватель: нет
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1100" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/sony_cd-mex-1gp</url>
+				<price>6210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1012</categoryId>
+				<picture>http://ndural.ru/images/products/0001100.jpg</picture>
+				<typePrefix>USB автомагнитола</typePrefix>
+				<vendor>Sony</vendor>
+				<model>Sony cd-mex-1gp</model>
+				<description>Передняя панель со встроенной флэш-памятью 1 ГБ;
+Возможность загрузки музыкальных файлов на встроенную память через USB-кабель (в комплекте);
+CD-привод на фирменном шасси DRIVE-S;
+Откидная съемная передняя панель;</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1101" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/razem_iso_evro</url>
+				<price>68</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1018</categoryId>
+				<picture>http://ndural.ru/images/products/0001101.jpg</picture>
+				<typePrefix>Разъем для автомагнитолы</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Разъем iso евро</model>
+				<description>евроразьем для подключения автомагнитолы и акустических систем</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1118" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/atm_kt_el_100</url>
+				<price>770</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1016</categoryId>
+				<picture>http://ndural.ru/images/products/0001118.jpg</picture>
+				<typePrefix>Антенна автомобильная</typePrefix>
+				<vendor>ATM</vendor>
+				<model>Atm kt el 100</model>
+				<description>активная внешняя антенна  на стекло, длина кабеля 2, 3 м</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1119" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/atm_pf_a4_n</url>
+				<price>432</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1016</categoryId>
+				<picture>http://ndural.ru/images/products/0001119.jpg</picture>
+				<typePrefix>Антенна автомобильная</typePrefix>
+				<vendor>ATM</vendor>
+				<model>Atm pf a4 n</model>
+				<description>наружная врезная пассивная, длина кабеля 1700 мм</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1130" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_mdn1725t_1din</url>
+				<price>14837</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/0001130.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology mdn-1725t 1-din</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: есть
+MP3-проигрыватель: есть
+DVD-проигрыватель: есть
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1131" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/sht6501_toyota_corolla</url>
+				<price>18765</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/0001131.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Sht-6501 Toyota Corolla</model>
+				<description>Штатное головное устройство SATURN Hi-Tech SHT-6501 для Toyota Corolla Встроенная GPS навигация с картами Навител в комплекте !; 
+
+ Компания SATURN.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1132" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/sht6508</url>
+				<price>19305</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/0001132.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Sht-6508</model>
+				<description>Штатное головное устройство SATURN Hi-Tech SHT-6508 для Skoda Octavia Встроенная GPS навигация с картами Навител в комплекте !; 
+ Официальный дилер.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1133" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/sht6509_ford</url>
+				<price>15525</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/0001133.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Sht-6509 ford</model>
+				<description>для Ford Focus/Galaxy/S-max/Mondeo /Tourneo Connect (2010) /Transit Connect (2010) - OEM мультимедийный центр с навигацией NAVITEL: широкоформатный.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1134" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/sht6538_nissan</url>
+				<price>15525</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/0001134.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Sht-6538 nissan</model>
+				<description>Хорошо, когда устройство интуитивно понятно в управлении, работает в соответствии со всем описанным функционалом, оправдывает заявленное качество и.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1135" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/sht6620_kia_sorento</url>
+				<price>20250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/0001135.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Sht-6620 kia sorento</model>
+				<description>для KIA Sorento - OEM мультимедийный центр с навигацией NAVITEL: широкоформатный ЖК-монитор с диагональю 6, 9”, системы  цветности PAL/SEСAM/NTSC</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1136" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_amd100</url>
+				<price>14094</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1011</categoryId>
+				<picture>http://ndural.ru/images/products/0001136.jpg</picture>
+				<typePrefix>DVD автомагнитола</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology amd-100</model>
+				<description>Тип: портативный DVD-плеер
+Экран: 10"
+Отношение сигнал/шум (аудио): 90 дБ
+Поддерживаемые носители: DVD, CD
+Поддерживаемые форматы: MP3, VideoCD,.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1137" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_dvu-1330</url>
+				<price>3483</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1027</categoryId>
+				<picture>http://ndural.ru/images/products/0001137.jpg</picture>
+				<typePrefix>MP3 автомагнитола</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology dvu-1330</model>
+				<description>Тюнер: есть,  цифровой
+CD-проигрыватель: нет
+MP3-проигрыватель: есть
+DVD-проигрыватель: нет
+Blu-ray-проигрыватель: нет
+Усилитель: есть
+Эквалайзер:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1138" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/cam1_universalnaja</url>
+				<price>1728</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1013</categoryId>
+				<picture>http://ndural.ru/images/products/0001138.jpg</picture>
+				<typePrefix>Видеокамера заднего вида</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Cam-1 универсальная</model>
+				<description>миниатюрная: диаметр 18 мм, длина 23 мм, сенсор MT9V136, угол обзора: 170°, минимальная освещенность 0, 1 люкс, система:цветности PAL/NTSC,.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1139" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/cam4_v_ramke_nomernogo_znaka</url>
+				<price>2255</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1013</categoryId>
+				<picture>http://ndural.ru/images/products/0001139.jpg</picture>
+				<typePrefix>Видеокамера заднего вида</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Cam-4 в рамке номерного знака</model>
+				<description>в рамке номерного знака, цвет черный, сенсор MT9V136, угол обзора: 170°, минимальная освещенность 0, 1 люкс, система:цветности PAL/NTSC</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1140" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/cam7_universalnaja</url>
+				<price>1823</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1013</categoryId>
+				<picture>http://ndural.ru/images/products/0001140.jpg</picture>
+				<typePrefix>Видеокамера заднего вида</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Cam-7 универсальная</model>
+				<description>для использования с адаптерами в подсветку номера на различные автомобили, угол обзора 136°, чувствительность 0,1 люкс, система цветности NTSC,.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1141" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/cam7l_universalnaja</url>
+				<price>1310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1013</categoryId>
+				<picture>http://ndural.ru/images/products/0001141.jpg</picture>
+				<typePrefix>Видеокамера заднего вида</typePrefix>
+				<vendor>Saturn</vendor>
+				<model>Cam-7l универсальная</model>
+				<description>камера заднего вида универсальная для использования с адаптерами в подсветку номера</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1144" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/parkvision_plc12</url>
+				<price>2423</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1015</categoryId>
+				<picture>http://ndural.ru/images/products/0001144.jpg</picture>
+				<typePrefix>Парктроник</typePrefix>
+				<vendor>Parkvision</vendor>
+				<model>Parkvision plc-12</model>
+				<description>Цветная пылеводонепроницаемая камера в рамке номерного знака для автомобиля Toyota Camry 2008</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1145" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/parkvision_plc41_vw_skoda</url>
+				<price>2430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1013</categoryId>
+				<picture>http://ndural.ru/images/products/0001145.jpg</picture>
+				<typePrefix>Видеокамера заднего вида</typePrefix>
+				<vendor>Parkvision</vendor>
+				<model>Parkvision plc-41 vw, skoda</model>
+				<description>VW Polo, Golf 6, Magotan, Passat, Skoda Superb</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1146" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/parkvision_pvc40pn_nissan_teana</url>
+				<price>2687</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1013</categoryId>
+				<picture>http://ndural.ru/images/products/0001146.jpg</picture>
+				<typePrefix>Видеокамера заднего вида</typePrefix>
+				<vendor>Parkvision</vendor>
+				<model>Parkvision pvc-40pn nissan teana</model>
+				<description>Высококачественная камера Parkvision PVC-40PN имеет высокую чувствительность. Эта камера является проводной и устанавливается на автомобиль марки Nissan Teana</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1148" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/pleervox_plvcama02</url>
+				<price>3672</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1013</categoryId>
+				<picture>http://ndural.ru/images/products/0001148.jpg</picture>
+				<typePrefix>Видеокамера заднего вида</typePrefix>
+				<vendor>Pleervox</vendor>
+				<model>Pleervox PLV-CAM-А02</model>
+				<description>Возможность установки на горозонтальную и вертикальную поверхность 
+Возможность отключать парковочные линии 
+Разрешение: 420 линий</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1159" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/sistema_zadnego_obzora_plv-truck_5</url>
+				<price>10395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1013</categoryId>
+				<picture>http://ndural.ru/images/products/0001159.jpg</picture>
+				<typePrefix>Видеокамера заднего вида</typePrefix>
+				<vendor>Pleervox</vendor>
+				<model>Система заднего обзора plv-truck 5</model>
+				<description>парковочный комплекс для грузовых автомобилей и автобусов. В набор входит 7-дюймовый монитор и водонепроницаемая камера заднего вида, которые просто необходимы во время парковки или сдачи грузовика назад</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1201" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/parkvision_pvm85</url>
+				<price>4455</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1047</categoryId>
+				<picture>http://ndural.ru/images/products/0001201.jpg</picture>
+				<typePrefix>Салонное зеркало</typePrefix>
+				<vendor>Parkvision</vendor>
+				<model>Parkvision pvm-85</model>
+				<description>Тип: салонное зеркало
+TV-тюнер: нет
+DVD-проигрыватель: нет
+Поддержка стандартов: PAL, NTSC
+Диагональ: 4.3"
+Сенсорный дисплей: да
+Формат:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1203" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_dvt100</url>
+				<price>3213</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1035</categoryId>
+				<picture>http://ndural.ru/images/products/0001203.jpg</picture>
+				<typePrefix>Tv-тюнер цифровой</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology dvt-100</model>
+				<description>Устройство Prology DVT-100 предназначено для приема цифровых DVB-T телеканалов и радиостанций и их просмотра/прослушивания.
+  
+ 
+  
+Устройство.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1204" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/challenger_pwr-520</url>
+				<price>1755</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/0001204.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Challenger</vendor>
+				<model>Challenger pwr-520</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: 13 см (5 дюйм.)
+Количество полос: 2
+Мощность: 70 Вт (номинальная), 140 Вт (максимальная)
+Чувствительность: 91.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1211" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/challenger_pwr-162</url>
+				<price>3645</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/0001211.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>Challenger</vendor>
+				<model>Challenger pwr-16.2</model>
+				<description>16,5 см, 2-х компонентная, диффузор Fiberglass, шeлковый твитер, 100/200  Вт (ном/макс), чувствительность 92 дБ, 45 Гц - 22 кГц, монтажная глубина 64.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1216" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_motive_ii_ms-692</url>
+				<price>3213</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/0001216.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. motive ii ms-692</model>
+				<description>E.O.S. MOTIVE II MS-692. 16х24-см (6x9") коаксиальная 2-полосная акустическая система класса OPTIMUM. Диффузор из Carbon. Твитер с шелковым куполом.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1218" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_opera_es_130</url>
+				<price>6251</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/0001218.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. opera es 130</model>
+				<description>
+13-см (5,25”) 2-полосная компонентная акустическая система класса PREMIUM. Диффузор из бумаги с влагозащитной пропиткой. Мощный ферритовый магнит..</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1219" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_viicon</url>
+				<price>10841</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1036</categoryId>
+				<picture>http://ndural.ru/images/products/0001219.jpg</picture>
+				<typePrefix>Среднечастотная акустическая система</typePrefix>
+				<vendor>EOS</vendor>
+				<model>e.o.s. v-iicon</model>
+				<description>Тип: среднечастотная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 1
+Мощность: 150 Вт (номинальная), 250 Вт (максимальная)
+Чувствительность: 85.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1220" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_al267</url>
+				<price>5387</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1037</categoryId>
+				<picture>http://ndural.ru/images/products/0001220.jpg</picture>
+				<typePrefix>Твитер</typePrefix>
+				<vendor>EOS</vendor>
+				<model>e.o.s. al-267</model>
+				<description>Тип: твитер
+Типоразмер: 2.6 см (1 дюйм.)
+Количество полос: 1
+Мощность: 25 Вт (номинальная), 40 Вт (максимальная)
+Чувствительность: 89 дБ (2.83.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1221" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_studio283c</url>
+				<price>2538</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1037</categoryId>
+				<picture>http://ndural.ru/images/products/0001221.jpg</picture>
+				<typePrefix>Твитер</typePrefix>
+				<vendor>EOS</vendor>
+				<model>e.o.s studio-283c</model>
+				<description>Тип: твитер
+Типоразмер: 2.6 см (1 дюйм.)
+Количество полос: 1
+Мощность: 25 Вт (номинальная), 40 Вт (максимальная)
+Чувствительность: 90 дБ (2.83.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1222" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_plxt</url>
+				<price>4725</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1037</categoryId>
+				<picture>http://ndural.ru/images/products/0001222.jpg</picture>
+				<typePrefix>Твитер</typePrefix>
+				<vendor>EOS</vendor>
+				<model>e.o.s. pl-xt</model>
+				<description>Тип: твитер
+Количество полос: 1
+Мощность: 25 Вт (номинальная), 50 Вт (максимальная)
+Чувствительность: 90 дБ
+Диапазон воспроизводимых частот: 1200 -.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1223" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_tw20</url>
+				<price>743</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1037</categoryId>
+				<picture>http://ndural.ru/images/products/0001223.jpg</picture>
+				<typePrefix>Твитер</typePrefix>
+				<vendor>EOS</vendor>
+				<model>e.o.s. tw-20</model>
+				<description>
+Тип: твитер
+Типоразмер: 3"(8 см)
+Количество полос: 1
+Номинальная мощность: 25 Вт
+Диапазон частот: 1100-25000 Гц
+</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1224" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/focal_tn_47</url>
+				<price>2282</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1037</categoryId>
+				<picture>http://ndural.ru/images/products/0001224.jpg</picture>
+				<typePrefix>Твитер</typePrefix>
+				<vendor>Focal</vendor>
+				<model>focal tn 47</model>
+				<description>Тип: твитер
+Количество полос: 1
+Мощность: 100 Вт (максимальная)
+Чувствительность: 91 дБ
+Диапазон воспроизводимых частот: 2800 - 20000 Гц
+Размеры: 19.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1225" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzaf_100x</url>
+				<price>878</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/0001225.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzaf 100x</model>
+				<description>Тип компонентная
+Количество полос 2
+Номинальная мощность 100 Вт
+Максимальная мощность 150 Вт</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1239" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzpm_60_sq</url>
+				<price>1283</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1036</categoryId>
+				<picture>http://ndural.ru/images/products/0001239.jpg</picture>
+				<typePrefix>Среднечастотная акустическая система</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>ground zero gzpm 60 sq</model>
+				<description>Ground Zero GZPM 60SQ - Среднечастотник
+Диаметр: 72 мм
+номинальная мощность: 50 Вт
+Максимальная мощность: 80 Вт
+Сопротивление: 4.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1244" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_cs-5_c</url>
+				<price>2336</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/0001244.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl cs-5 c</model>
+				<description>Тип: коаксиальная АС
+Номинальная мощность: 35 Вт
+Максимальная мощность: 105 Вт
+Параметры измерения чувствительности: 2.83 В/м
+Минимальная частота: 70.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1245" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_cs-2165_s</url>
+				<price>3146</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/0001245.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl cs-2165 С</model>
+				<description>Тип: компонентная АС
+Типоразмер: 16 см (6 дюйм.)
+Количество полос: 2
+Мощность: 45 Вт (номинальная), 135 Вт (максимальная)
+Чувствительность: 91.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1246" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_vc_6k</url>
+				<price>3065</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/0001246.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar vc 6k</model>
+				<description>Тип: компонентная АС
+Номинальная мощность: 150 Вт
+Максимальная мощность: 300 Вт
+Минимальная частота: 50 Гц
+Максимальная частота: 24000 Гц
+Импеданс: 4.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1252" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_es-522_cf</url>
+				<price>743</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/0001252.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology es-522 cf</model>
+				<description>Тип: коаксиальная АС
+Типоразмер: 13 см (5 дюйм.)
+Количество полос: 2
+Мощность: 120 Вт (максимальная)
+Чувствительность: 91 дБ
+Диапазон воспроизводимых.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1253" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/sony_xs-1735r</url>
+				<price>1593</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/0001253.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>Sony</vendor>
+				<model>Sony xs-1735r</model>
+				<description>17 см, 2-х полосная коаксиальная а/с, мощность 40/200 Вт (ном/макс), частотный диапазон 60 - 22000 Гц, чувствительность 89 дБ, диффузор  HDLD.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1255" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_slick_5_comp_-_v2</url>
+				<price>2133</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/0001255.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe slick 5 comp - v2</model>
+				<description>Тип: компонентная АС 
+Типоразмер: 5" (13 см) 
+Количество полос: 2 
+Номинальная мощность: 80 Вт 
+Максимальная мощность: 240 Вт / Peak /  
+Частотный.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1256" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_slick_6_comp_-_v2</url>
+				<price>2403</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1004</categoryId>
+				<picture>http://ndural.ru/images/products/0001256.jpg</picture>
+				<typePrefix>Компонентная акустическая система</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe slick 6 comp - v2</model>
+				<description>Тип акустики: компонентная 
+Количество полос: 2 
+Размер диффузора 6,5" (165 мм) 
+Максимальная / номинальная мощность 270 / 90 Вт 
+Входное сопротивление 4 Ома</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1257" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_slick_6-v3</url>
+				<price>1688</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1005</categoryId>
+				<picture>http://ndural.ru/images/products/0001257.jpg</picture>
+				<typePrefix>Коаксиальная акустическая система</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe slick 6-v3</model>
+				<description>Тип: коаксиальная АС
+Номинальная мощность: 135 Вт
+Максимальная мощность: 420 Вт
+Минимальная частота: 50 Гц
+Максимальная частота: 25000 Гц
+Импеданс: 4.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1260" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/challenger_max-line_10_wb</url>
+				<price>6090</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/0001260.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>Challenger</vendor>
+				<model>Challenger max-line 10 wb</model>
+				<description>Тип: сабвуфер
+Типоразмер: 25 см (10 дюйм.)
+Количество полос: 1
+Мощность: 300 Вт (номинальная), 600 Вт (максимальная)
+Чувствительность: 91.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1261" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/challenger_max-line_12_wf</url>
+				<price>3890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/0001261.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>Challenger</vendor>
+				<model>Challenger max-line 12 wf</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 250 Вт (номинальная), 450 Вт (максимальная)
+Чувствительность: 91.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1262" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/focal_polyglass_27_v2</url>
+				<price>7695</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/0001262.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>Focal</vendor>
+				<model>Focal polyglass 27 v2</model>
+				<description>Тип: сабвуфер
+Количество полос: 1
+Мощность: 300 Вт (номинальная), 600 Вт (максимальная)
+Чувствительность: 88 дБ
+Диапазон воспроизводимых частот: 35 -.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1263" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzhw_25x</url>
+				<price>7550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/0001263.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzhw 25x</model>
+				<description>Тип: сабвуфер
+Типоразмер: 25 см (10 дюйм.)
+Количество полос: 1
+Мощность: 600 Вт (номинальная)
+Чувствительность: 84 дБ (Вт/м)
+Импеданс: 2 Ом
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1265" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzrw_10xd-al</url>
+				<price>5690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/0001265.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzrw 10xd-al</model>
+				<description>Тип: сабвуфер
+Типоразмер: 25 см (10 дюйм.)
+Количество полос: 1
+Мощность: 400 Вт (номинальная)
+Чувствительность: 86 дБ
+Импеданс: 2 Ом
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1266" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzrw_12xd-al</url>
+				<price>6490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/0001266.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzrw 12xd-al</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 500 Вт (номинальная)
+Чувствительность: 91 дБ
+Импеданс: 2 Ом
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1267" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzrw_25_spl</url>
+				<price>5690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/0001267.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzrw 25 spl</model>
+				<description>Тип: сабвуфер
+Типоразмер: 25 см (10 дюйм.)
+Количество полос: 1
+Мощность: 800 Вт (максимальная)
+Чувствительность: 90 дБ
+Импеданс: 2 Ом
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1268" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gztw_25_tx</url>
+				<price>3590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/0001268.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gztw 25 tx</model>
+				<description>Тип: сабвуфер
+Типоразмер: 25 см (10 дюйм.)
+Количество полос: 1
+Мощность: 300 Вт (номинальная)
+Чувствительность: 86 дБ
+Импеданс: 2 Ом
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1269" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gztw_30_tx</url>
+				<price>3590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/0001269.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gztw 30 tx</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 400 Вт (номинальная)
+Чувствительность: 87 дБ
+Импеданс: 2 Ом
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1270" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzuw_12sq</url>
+				<price>5490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1043</categoryId>
+				<picture>http://ndural.ru/images/products/0001270.jpg</picture>
+				<typePrefix>Отдельные динамики</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzuw 12sq</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 500 Вт (номинальная)
+Чувствительность: 88 дБ
+Импеданс: 2 Ом
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1271" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzib_100_xbt</url>
+				<price>4455</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1044</categoryId>
+				<picture>http://ndural.ru/images/products/0001271.jpg</picture>
+				<typePrefix>Пассивный сабвуфер</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzib 100 xbt</model>
+				<description>Тип: сабвуфер
+Типоразмер: 25 см (10 дюйм.)
+Количество полос: 1
+Мощность: 250 Вт (номинальная)
+Импеданс: 4 Ом
+Встроенный усилитель: нет
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1272" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzib_1000_bt</url>
+				<price>4050</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1044</categoryId>
+				<picture>http://ndural.ru/images/products/0001272.jpg</picture>
+				<typePrefix>Пассивный сабвуфер</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzib 1000 bt</model>
+				<description>Тип: корпусной сабвуфер
+Размеры динамика:25 см (10'')
+Кол-во динамиков:1</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1273" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzib_120_xbt</url>
+				<price>5387</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1044</categoryId>
+				<picture>http://ndural.ru/images/products/0001273.jpg</picture>
+				<typePrefix>Пассивный сабвуфер</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzib 120 xbt</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 350 Вт (номинальная)
+Импеданс: 4 Ом
+Встроенный усилитель: нет
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1274" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzib_1200_bt</url>
+				<price>5130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1044</categoryId>
+				<picture>http://ndural.ru/images/products/0001274.jpg</picture>
+				<typePrefix>Пассивный сабвуфер</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzib 1200 bt</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 350 Вт (номинальная)
+Импеданс: 4 Ом
+Встроенный усилитель: нет
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1275" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzib_80_xbt</url>
+				<price>3690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1044</categoryId>
+				<picture>http://ndural.ru/images/products/0001275.jpg</picture>
+				<typePrefix>Пассивный сабвуфер</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzib 80 xbt</model>
+				<description>Тип: сабвуфер
+Типоразмер: 20 см (8 дюйм.)
+Количество полос: 1
+Мощность: 150 Вт (номинальная)
+Импеданс: 4 Ом
+Встроенный усилитель: нет
+Корпус:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1276" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gztb_300_br</url>
+				<price>9140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1044</categoryId>
+				<picture>http://ndural.ru/images/products/0001276.jpg</picture>
+				<typePrefix>Пассивный сабвуфер</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gztb 300 br</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 400 Вт (номинальная)
+Встроенный усилитель: нет
+Корпус: есть
+Тип корпуса:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1277" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_slr_10</url>
+				<price>4950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1044</categoryId>
+				<picture>http://ndural.ru/images/products/0001277.jpg</picture>
+				<typePrefix>Пассивный сабвуфер</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe slr 10</model>
+				<description>Тип: сабвуфер
+Типоразмер: 25 см (10 дюйм.)
+Количество полос: 1
+Мощность: 350 Вт (номинальная), 1000 Вт (максимальная)
+Чувствительность: 88.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1278" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_slr_15</url>
+				<price>6690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1044</categoryId>
+				<picture>http://ndural.ru/images/products/0001278.jpg</picture>
+				<typePrefix>Пассивный сабвуфер</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe slr 15</model>
+				<description>38 см, сабвуфер корпусной пассивный, 500 Вт (RMS) / 1500 Вт (max), 4 Ом</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1279" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_max_af10</url>
+				<price>5950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1042</categoryId>
+				<picture>http://ndural.ru/images/products/0001279.jpg</picture>
+				<typePrefix>Активный сабвуфер</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar max af10</model>
+				<description>Тип: сабвуфер
+Типоразмер: 25 см (10 дюйм.)
+Количество полос: 1
+Мощность: 400 Вт (номинальная), 800 Вт (максимальная)
+Чувствительность: 89 дБ
+Диапазон.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1280" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_max_af12</url>
+				<price>7050</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1042</categoryId>
+				<picture>http://ndural.ru/images/products/0001280.jpg</picture>
+				<typePrefix>Активный сабвуфер</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar max af12</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 600 Вт (номинальная), 1200 Вт (максимальная)
+Чувствительность: 91.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1281" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_black_air_b10v1</url>
+				<price>11300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1042</categoryId>
+				<picture>http://ndural.ru/images/products/0001281.jpg</picture>
+				<typePrefix>Активный сабвуфер</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe black air b10-v1</model>
+				<description>Тип: сабвуфер
+Типоразмер: 25 см (10 дюйм.)
+Количество полос: 1
+Мощность: 500 Вт (номинальная), 1500 Вт (максимальная)
+Импеданс: 4 Ом
+Встроенный.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1282" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_lite_air_c12-v1</url>
+				<price>9650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1042</categoryId>
+				<picture>http://ndural.ru/images/products/0001282.jpg</picture>
+				<typePrefix>Активный сабвуфер</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe lite air c12-v1</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 450 Вт (номинальная), 1350 Вт (максимальная)
+Встроенный усилитель:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1283" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_lite_air_c8-v1</url>
+				<price>6950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1042</categoryId>
+				<picture>http://ndural.ru/images/products/0001283.jpg</picture>
+				<typePrefix>Активный сабвуфер</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe lite air c8-v1</model>
+				<description>Тип: сабвуфер
+Типоразмер: 20 см (8 дюйм.)
+Количество полос: 1
+Мощность: 300 Вт (номинальная), 900 Вт (максимальная)
+Импеданс: 4 Ом
+Встроенный.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1284" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_slick_pack_21-v1</url>
+				<price>12350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1045</categoryId>
+				<picture>http://ndural.ru/images/products/0001284.jpg</picture>
+				<typePrefix>Сабвуферный комплект</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe slick pack 2.1-v1</model>
+				<description>Тип: сабвуфер
+Типоразмер: 30 см (12 дюйм.)
+Количество полос: 1
+Мощность: 400 Вт (номинальная), 1200 Вт (максимальная)
+Встроенный усилитель:.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1285" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/daxx_t94</url>
+				<price>608</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1046</categoryId>
+				<picture>http://ndural.ru/images/products/0001285.jpg</picture>
+				<typePrefix>Контактная группа</typePrefix>
+				<vendor>Daxx</vendor>
+				<model>Daxx t94</model>
+				<description>контактная группа для корпусных сабвуферов, прямоугольная, 4 контакта, позолоченные, корпус из высокопрочного пластика</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1297" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae3501</url>
+				<price>10098</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1031</categoryId>
+				<picture>http://ndural.ru/images/products/0001297.jpg</picture>
+				<typePrefix>Одноканальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. ae-350.1</model>
+				<description>Сабовый моно блок усилитель, работает в Real Class AB. Оснащен мощным блоком питания. Комплектуется сдвоенными мощными (125 Вт) транзисторами фирмы Sanken (Япония)</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1298" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae5001</url>
+				<price>12420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1031</categoryId>
+				<picture>http://ndural.ru/images/products/0001298.jpg</picture>
+				<typePrefix>Одноканальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. ae-500.1</model>
+				<description>Сабовый «моно блок» усилитель, работает в Real Class AB.
+Оснащен двумя мощными блоками питания, раздельно на   и -. Комплектуется сдвоенными мощными транзисторами</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1299" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/ground_zero_gzra_1600d</url>
+				<price>9153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1031</categoryId>
+				<picture>http://ndural.ru/images/products/0001299.jpg</picture>
+				<typePrefix>Одноканальный автомобильный усилитель</typePrefix>
+				<vendor>Ground Zero</vendor>
+				<model>Ground zero gzra 1.600d</model>
+				<description>класс D, мощность RMS: 1 x 220 Вт при 4 Ом, 1 x 400 Вт при 2 Ом, 1 x 600 Вт при 1 Ом, LPF 30 - 250 Гц, Subsonic 5 - 50 Гц, Bassboost 0 - 12 дБ (45.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1301" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/hifonics_hfi_1500d</url>
+				<price>11003</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1031</categoryId>
+				<picture>http://ndural.ru/images/products/0001301.jpg</picture>
+				<typePrefix>Одноканальный автомобильный усилитель</typePrefix>
+				<vendor>Hifonics</vendor>
+				<model>Hifonics hfi 1500.d</model>
+				<description>
+Выходная мощность, 1 Ом: 1500 Вт
+Выходная мощность, 2 Ом: 1000 Вт
+Выходная мощность, 4 Ом: 500 Вт
+Максимальная мощность, 1500 Вт
+Проводной регулятор.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1302" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jensen_power_20001d</url>
+				<price>5873</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1031</categoryId>
+				<picture>http://ndural.ru/images/products/0001302.jpg</picture>
+				<typePrefix>Одноканальный автомобильный усилитель</typePrefix>
+				<vendor>Jensen</vendor>
+				<model>Jensen power 2000.1d</model>
+				<description>Сабвуферный моно-усилитель класса D Jensen Power 2000.1D позволяет достигать максимальные мощности при минимальном размере корпуса и более низких температурах</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1303" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/mb_quart_fx_11000</url>
+				<price>9383</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1031</categoryId>
+				<picture>http://ndural.ru/images/products/0001303.jpg</picture>
+				<typePrefix>Одноканальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>Mb quart fx 1.1000</model>
+				<description>Моноблок серии Formula MB Quart FX 1.1000 работает в экономичном классе AB, с низким уровнем собственных искажений. </description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1304" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/challenger_er-702</url>
+				<price>4280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001304.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>Challenger</vendor>
+				<model>Challenger er-70.2</model>
+				<description>2-канальные усилители мощности. В схеме усилителей ER-70.2 используются только полевые МОП-транзисторы в оконечных каскадах, что позволяет им стабильно работать на нагрузку 2 Ом.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1305" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae100t</url>
+				<price>10530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001305.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. ae-100Т</model>
+				<description>Количество каналов: 2-канальный
+Выходная мощность на канал 2 Ом: 190 Вт
+Выходная мощность на канал 4 Ом: 110 Вт
+Частота минимальная: 20 Гц
+Частота.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1306" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae2110</url>
+				<price>9221</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001306.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. ae-2110</model>
+				<description>Усилитель класса HI-End, работает в Real Class AB. Комплектуется сдвоенными мощными (125 Вт) комплементарными биполярными транзисторами фирмы Sanken.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1307" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae2150</url>
+				<price>11907</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001307.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.O.S. AE-2150</model>
+				<description>Усилитель класса TOP HI-FI, работает в Real Сass AB. Оснащен мощным блоком питания. Комплектуется сдвоенными мощными биполярными транзисторами (125.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1308" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae2170</url>
+				<price>16902</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001308.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. ae-2170</model>
+				<description>Усилитель класса HI-END, работает в Real Сass AB. Оснащен мощным блоком питания. Комплектуется сдвоенными мощными биполярными транзисторами.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1309" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae3001</url>
+				<price>10098</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001309.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. ae-300.1</model>
+				<description>Импульсный 2-х канальный усилитель класса D
+Фильтр верхних частот, плавная регулировка 40-1200 Гц
+Фильтр нижних частот, плавная регулировка 40-1200 Гц</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1310" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae65t</url>
+				<price>10125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001310.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. ae-65t</model>
+				<description>Количество каналов: 2-канальный
+Выходная мощность на канал 2 Ом: 190 Вт
+Выходная мощность на канал 4 Ом: 120 Вт
+Частота минимальная: 20 Гц
+Частота.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1311" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae-920t</url>
+				<price>10125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001311.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s ae-920Т</model>
+				<description>2-канальный усилитель класса Hi-End, работает в Real Class AB. Оснащен мощным блоком питания. Комплектуется сдвоенными мощными биполярными транзисторами (200 Вт) фирмы Sanken (Япония)</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1312" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_e150_ab</url>
+				<price>12528</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001312.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. e-150 ab</model>
+				<description>Количество каналов: 2-канальный
+Выходная мощность на канал 2 Ом: 150 Вт
+Выходная мощность на канал 4 Ом: 75 Вт
+Коэффициент гармонических искажений,.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1316" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/hifonics_bre_1002</url>
+				<price>5319</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001316.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>Hifonics</vendor>
+				<model>Hifonics bre 100.2</model>
+				<description>Hifonics BRE100.2 - 2-х канальный усилитель, который обладает современным дизайном и замечательным музыкальным потенциалом.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1318" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/mb_quart_oa_2402</url>
+				<price>4725</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001318.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>MB Quart</vendor>
+				<model>Mb quart oa 240.2</model>
+				<description>серия ONYX NEW, 2 x 60/1 х 240 Вт (RMS) при 4 Ом, 2 x 120 Вт (RMS) при 2 Ом, диапазон 10 Гц - 45 кГц, уровень входного сигнала 0,2 В - 6 В,  LPF 30.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1319" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_black_box_s2-v1</url>
+				<price>6413</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1024</categoryId>
+				<picture>http://ndural.ru/images/products/0001319.jpg</picture>
+				<typePrefix>2-х канальный автомобильный усилитель</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe black box s2-v1</model>
+				<description>
+                        Описание
+                    
+                    
+                        Модельный ряд Серия: Black AirУсилитель
+.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1320" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_gto3_ez</url>
+				<price>12555</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1038</categoryId>
+				<picture>http://ndural.ru/images/products/0001320.jpg</picture>
+				<typePrefix>3-х канальный автомобильный усилитель</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl gto-3 ez</model>
+				<description>2 x 50 Вт   1 х 350 Вт (RMS)  при 4 Ом, 2 x 75 Вт   1 х 500 Вт (RMS) при 2 Ом, 1 х 150 Вт/мост (RMS) при 4 Ом   1 х 500 Вт (RMS) при 2 Ом; мощность.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1321" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/challenger_cha_754</url>
+				<price>5738</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://ndural.ru/images/products/0001321.jpg</picture>
+				<typePrefix>4-х канальный автомобильный усилитель</typePrefix>
+				<vendor>Challenger</vendor>
+				<model>Challenger cha 75.4</model>
+				<description>Количество каналов: 4-канальный
+Выходная мощность на канал 2 Ом: 115 Вт
+Выходная мощность на канал 4 Ом: 75 Вт
+Выходная мощность, мостовой режим,.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1322" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/challenger_ergo_704</url>
+				<price>7061</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://ndural.ru/images/products/0001322.jpg</picture>
+				<typePrefix>4-х канальный автомобильный усилитель</typePrefix>
+				<vendor>Challenger</vendor>
+				<model>Challenger ergo 70.4</model>
+				<description>4-канальные усилители мощности. В схеме усилителей ER-70.4 используются только полевые МОП-транзисторы в оконечных каскадах, что позволяет им стабильно работать на нагрузку 2 Ом</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1324" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae-475_le</url>
+				<price>10625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://ndural.ru/images/products/0001324.jpg</picture>
+				<typePrefix>4-х канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s ae-475 le</model>
+				<description>4 х 85 Вт (2 х 250 Вт) RMS при 4 Ом, 4 х 125 Вт при 2 Ом, 2 блока питания, ФВЧ 40 - 400/400 - 4000 Гц, Band Pass 200 - 800 Гц, ФНЧ 40 - 400/400 -.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1326" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae980f_le</url>
+				<price>20993</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://ndural.ru/images/products/0001326.jpg</picture>
+				<typePrefix>4-х канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. ae-980f le</model>
+				<description>Усилитель класса Hi-End, работает в Real Class AB. Оснащен мощным блоком питания на каждые два канала. Комплектуется сдвоенными мощными биполярными.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1333" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/jbl_gto504_ez</url>
+				<price>8505</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://ndural.ru/images/products/0001333.jpg</picture>
+				<typePrefix>4-х канальный автомобильный усилитель</typePrefix>
+				<vendor>JBL</vendor>
+				<model>Jbl gto-504 ez</model>
+				<description>4 х 50 Вт RMS при 4 Ом, 4 х 75 Вт RMS при 2 Ом, 2 х 150 Вт RMS при 4 Ом, 4 х 160 Вт макс при 4 Ом</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1334" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_black_box_s4-v1</url>
+				<price>8991</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://ndural.ru/images/products/0001334.jpg</picture>
+				<typePrefix>4-х канальный автомобильный усилитель</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe black box s4-v1</model>
+				<description>Число каналов: 4
+Номинальная мощность, 4 Ом 100 Вт х 4
+Номинальная мощность, 2 Ом 125 Вт х 4
+Номинальная мощность в мостовом включении, 4 Ом 250 Вт х 2
+Максимальная мощность: 1000 Вт
+Диапазон частот: 20- 20 000 Гц
+ФНЧ/ФВЧ 30 - 1000 Гц;
+Тип кроссовера: LP /</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1335" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_ae41001_le</url>
+				<price>15741</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1030</categoryId>
+				<picture>http://ndural.ru/images/products/0001335.jpg</picture>
+				<typePrefix>5-и канальный автомобильный усилитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. ae-4100.1 le</model>
+				<description>Комплектуется сдвоенными мощными (160 Вт) комплементарными биполярными транзисторами фирмы Sanken (Япония), электролитическими конденсаторами фирмы Rubycon (Япония).</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1336" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_amp_kit_0</url>
+				<price>3092</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1001</categoryId>
+				<picture>http://ndural.ru/images/products/0001336.jpg</picture>
+				<typePrefix>Установочный комплект</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar amp kit 0</model>
+				<description>силовой кабель 0 Ga в прозрачной синей изоляции (5 м), кабель заземления 0 Gа в прозрачной серебристой изоляции (0,9 м), акустический кабель - 6 м,.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1344" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/lanzar_lq_30cap</url>
+				<price>4037</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1017</categoryId>
+				<picture>http://ndural.ru/images/products/0001344.jpg</picture>
+				<typePrefix>Цифровой вольтметр</typePrefix>
+				<vendor>Lanzar</vendor>
+				<model>Lanzar lq 30cap</model>
+				<description>3 Фарад, цифровой вольтметр с голубой подсветкой, рабочее напряжение до 24 В, хромированные выводы, диаметр 8,9 см, высота 22,5 см</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1345" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/maxxlink_vdc_15_v1</url>
+				<price>2363</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1017</categoryId>
+				<picture>http://ndural.ru/images/products/0001345.jpg</picture>
+				<typePrefix>Цифровой вольтметр</typePrefix>
+				<vendor>Maxxlink</vendor>
+				<model>Maxxlink vdc 1.5 v1</model>
+				<description>1,5 Фарад, цифровой вольтметр хромированные выводы, Low ESR</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1346" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/maxxlink_vdc_30_v1</url>
+				<price>3942</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1017</categoryId>
+				<picture>http://ndural.ru/images/products/0001346.jpg</picture>
+				<typePrefix>Цифровой вольтметр</typePrefix>
+				<vendor>Maxxlink</vendor>
+				<model>Maxxlink vdc 3.0 v1</model>
+				<description>3,0 Фарад, цифровой вольтметр хромированные выводы, Low ESR</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1359" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_contata_25</url>
+				<price>223</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1022</categoryId>
+				<picture>http://ndural.ru/images/products/0001359.jpg</picture>
+				<typePrefix>Акустический кабель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. contata 25</model>
+				<description>2  х 2,5 мм2 (13 Ga), точный тональный баланс воспроизведения низких, средних и высоких звуковых частот, передача всех эмоций живого воспроизведения,.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1366" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/mystery_msc12</url>
+				<price>31</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1022</categoryId>
+				<picture>http://ndural.ru/images/products/0001366.jpg</picture>
+				<typePrefix>Акустический кабель</typePrefix>
+				<vendor>Mystery</vendor>
+				<model>Mystery msc-12</model>
+				<description>2 х 12 Ga (4 мм2), омеднённый алюминий (CCA), бухта 100 м, цена за 1 метр</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1394" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/daxx_r99-60</url>
+				<price>2997</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1026</categoryId>
+				<picture>http://ndural.ru/images/products/0001394.jpg</picture>
+				<typePrefix>Межблочный кабель</typePrefix>
+				<vendor>Daxx</vendor>
+				<model>Daxx r99-60</model>
+				<description>Межблочный кабель R99 для аудиоаппаратуры класса high-end представляет собой последнее достижение в области кабельных технологий..</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1400" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_s1g50</url>
+				<price>5063</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1026</categoryId>
+				<picture>http://ndural.ru/images/products/0001400.jpg</picture>
+				<typePrefix>Межблочный кабель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. s1-g50</model>
+				<description>Межблочные кабели Symphony S1 класса Hi-End. оснащенные разъемами с цанговыми зажимами с золотым (RP-208G) покрытием</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1406" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_rca_215</url>
+				<price>459</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1026</categoryId>
+				<picture>http://ndural.ru/images/products/0001406.jpg</picture>
+				<typePrefix>Межблочный кабель</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology rca 215</model>
+				<description>Межблочный коаксиальный кабель в прозрачном ПВХ изоляторе. 
+Металлические  разъемы 2RCA-male/ 2RCA-male
+Длина : 5 метров</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1412" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_flat</url>
+				<price>1283</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1026</categoryId>
+				<picture>http://ndural.ru/images/products/0001696.jpg</picture>
+				<typePrefix>Межблочный кабель</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe flat</model>
+				<description>кабель 2 RCA -> 2 RCA, жилы из бескислородной (OFC) меди, позолоченные разъемы RCА, длина 5 м</description>
+				<param name="ед.изм." >5m</param>
+			</offer>
+			<offer id="1416" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_rp1036</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1021</categoryId>
+				<picture>http://ndural.ru/images/products/0001416.jpg</picture>
+				<typePrefix>Зажим</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. rp-1036</model>
+				<description>цанговый зажим, покрытие золото 24 карата, тефлоновая изоляция, для кабеля диаметром 10 мм, цена за 1 шт.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1433" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/eos_mf_104f</url>
+				<price>1175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1039</categoryId>
+				<picture>http://ndural.ru/images/products/0001433.jpg</picture>
+				<typePrefix>Предохранитель</typePrefix>
+				<vendor>EOS</vendor>
+				<model>E.o.s. mf 104f</model>
+				<description>1 х  0 Ga   2 х 4 Ga -> 3 х 4 Ga   1 х 8 Ga, платиновое покрытие корпуса, позолоченые держатели предохранителей, предохранители AGU</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1434" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_pfd-4384g</url>
+				<price>338</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1028</categoryId>
+				<picture>http://ndural.ru/images/products/0001434.jpg</picture>
+				<typePrefix>Блок для предохранителей</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology pfd-4384g</model>
+				<description>Блок для предохранителей, вход 3 х 4 Ga / выход 3 х 8 Ga (Gold Series)
+Максимальное сечение кабеля вход:  4Ga</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1435" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/prology_pfd-4384l</url>
+				<price>392</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1028</categoryId>
+				<picture>http://ndural.ru/images/products/0001435.jpg</picture>
+				<typePrefix>Блок для предохранителей</typePrefix>
+				<vendor>Prology</vendor>
+				<model>Prology pfd-4384l</model>
+				<description>Блок для предохранителей, вход 3 х 4 Ga / выход 4 х 8 Ga со световым  индикатором обрыва (Gold Series)</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1459" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/daxx_z01</url>
+				<price>1188</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1020</categoryId>
+				<picture>http://ndural.ru/images/products/0001692.jpg</picture>
+				<typePrefix>Защитная кабельная оплетка</typePrefix>
+				<vendor>Daxx</vendor>
+				<model>Daxx z01</model>
+				<description>Кабельная оплетка(Snake Skin) Z01 от Американской компании DAXX предназначена для защиты кабеля от механических воздействий, одновременно улучшает внешний вид изделия.</description>
+				<param name="ед.изм." >20m</param>
+			</offer>
+			<offer id="1460" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/daxx_z02</url>
+				<price>1188</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1020</categoryId>
+				<picture>http://ndural.ru/images/products/0001691.jpg</picture>
+				<typePrefix>Защитная кабельная оплетка</typePrefix>
+				<vendor>Daxx</vendor>
+				<model>Daxx z02</model>
+				<description>Кабельная оплетка(Snake Skin) Z02 от Американской компании DAXX предназначена для защиты кабеля от механических воздействий, одновременно улучшает внешний вид изделия.</description>
+				<param name="ед.изм." >20m</param>
+			</offer>
+			<offer id="1461" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/daxx_z03</url>
+				<price>1188</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1020</categoryId>
+				<picture>http://ndural.ru/images/products/0001690.jpg</picture>
+				<typePrefix>Защитная кабельная оплетка</typePrefix>
+				<vendor>Daxx</vendor>
+				<model>Daxx z03</model>
+				<description>Кабельная оплетка(Snake Skin) Z03 от Американской компании DAXX предназначена для защиты кабеля от механических воздействий, одновременно улучшает внешний вид изделия.</description>
+				<param name="ед.изм." >20m</param>
+			</offer>
+			<offer id="1462" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/daxx_z07</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1020</categoryId>
+				<picture>http://ndural.ru/images/products/0001694.jpg</picture>
+				<typePrefix>Защитная кабельная оплетка</typePrefix>
+				<vendor>Daxx</vendor>
+				<model>Daxx z07</model>
+				<description>Кабельная оплетка(Snake Skin) Z07 от Американской компании DAXX предназначена для защиты кабеля от механических воздействий, одновременно улучшает внешний вид изделия.</description>
+				<param name="ед.изм." >10m</param>
+			</offer>
+			<offer id="1463" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/daxx_z10</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1020</categoryId>
+				<picture>http://ndural.ru/images/products/0001695.jpg</picture>
+				<typePrefix>Защитная кабельная оплетка</typePrefix>
+				<vendor>Daxx</vendor>
+				<model>Daxx z10</model>
+				<description>Кабельная оплетка(Snake Skin) Z10 от Американской компании DAXX предназначена для защиты кабеля от механических воздействий, одновременно улучшает внешний вид изделия.</description>
+				<param name="ед.изм." >10m</param>
+			</offer>
+			<offer id="1468" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/vibe_fast_plug</url>
+				<price>473</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1029</categoryId>
+				<picture>http://ndural.ru/images/products/0001468.jpg</picture>
+				<typePrefix>Коннектор</typePrefix>
+				<vendor>VIBE</vendor>
+				<model>Vibe fast plug</model>
+				<description>Технические параметры:Vibe Fast Plug - коннектор для автомобильного усилителя. Установка его в разрыв  проводов (в том числе уже подключенных)</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1530" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/shumoff_germeton_7</url>
+				<price>479</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1034</categoryId>
+				<picture>http://ndural.ru/images/products/0001698.jpg</picture>
+				<typePrefix>Уплотнительно-декоративный материал</typePrefix>
+				<vendor>Шумофф</vendor>
+				<model>Шумофф Герметон 7</model>
+				<description>Уплотнитель на основе спец ППУ серого цвета. Для стыков пластиковых панелей, воздуховодов. Медленно восстанавливается, заполняя пустоты.</description>
+				<param name="ед.изм." >750x750mm</param>
+			</offer>
+			<offer id="1585" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/osram_h1_12v_55w_64150cb01b</url>
+				<price>311</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1032</categoryId>
+				<picture>http://ndural.ru/images/products/0001585.jpg</picture>
+				<typePrefix>Лампа галогеновая</typePrefix>
+				<vendor>Osram</vendor>
+				<model>Osram h1 12v 55w 64150cb-01b</model>
+				<description>лампа галогеновая Cool Blue, цоколь H1, стекло синее, цветовая температура до 4000 К, мощность 55 Ватт, рабочее напряжение 12 Вольт, производство.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1586" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/osram_h1_12v_55w_64150nbr01b</url>
+				<price>405</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1032</categoryId>
+				<picture>http://ndural.ru/images/products/0001586.jpg</picture>
+				<typePrefix>Лампа галогеновая</typePrefix>
+				<vendor>Osram</vendor>
+				<model>Osram h1 12v 55w 64150nbr-01b</model>
+				<description>лампа галогеновая Night Breaker, цоколь H1, стекло синее, увеличенная дальность освещенного участка до 35 метров, мощность 55 Ватт, рабочее.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1587" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/osram_h11_12v_55w_64211</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1032</categoryId>
+				<picture>http://ndural.ru/images/products/0001587.jpg</picture>
+				<typePrefix>Лампа галогеновая</typePrefix>
+				<vendor>Osram</vendor>
+				<model>Osram h11 12v 55w 64211</model>
+				<description>лампа галогеновая, цоколь H11, мощность 55 Ватт, рабочее напряжение 12 Вольт, производство Германия, цена за 1 шт.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1588" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/osram_h11_12v_55w_64211nbr01b</url>
+				<price>743</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1032</categoryId>
+				<picture>http://ndural.ru/images/products/0001588.jpg</picture>
+				<typePrefix>Лампа галогеновая</typePrefix>
+				<vendor>Osram</vendor>
+				<model>Osram h11 12v 55w 64211nbr-01b</model>
+				<description>лампа галогеновая Night Breaker, цоколь H11, стекло синее, увеличенная дальность освещенного участка до 35 метров, мощность 55 Ватт</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1589" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/osram_h3_12v_55w_64151cb</url>
+				<price>297</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1032</categoryId>
+				<picture>http://ndural.ru/images/products/0001589.jpg</picture>
+				<typePrefix>Лампа галогеновая</typePrefix>
+				<vendor>Osram</vendor>
+				<model>Osram h3 12v 55w 64151cb</model>
+				<description>Галогеновая лампа OSRAM H3 серии CoolBlue. Лампы этой серии отличаются синевато-светло-белым светом, который делает их похожими на ксеноновые лампы. Они на 20% ярче, чем обычные галогеновые лампы. Содержит УФ-фильтр для защиты пластиковых частей лампы.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1591" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/osram_hb3_12v_60w_9005cb</url>
+				<price>513</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1032</categoryId>
+				<picture>http://ndural.ru/images/products/0001591.jpg</picture>
+				<typePrefix>Лампа галогеновая</typePrefix>
+				<vendor>Osram</vendor>
+				<model>Osram hb3 12v 60w 9005cb</model>
+				<description>лампа галогеновая Cool Blue, цоколь HB3, стекло синее, цветовая температура 4000 К, мощность 60 Ватт, рабочее напряжение 12 Вольт, производство США,.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1822" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_c350</url>
+				<price>2720</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001831.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics c350</model>
+				<description>Multitronics C350 устанавливается в штатное место для бортового компьютера в автомобилях ВАЗ семейства "Самара" и "Самара-2".</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1823" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_comfort_h10</url>
+				<price>1760</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001832.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics comfort Х10</model>
+				<description></description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1824" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_comfort_h11</url>
+				<price>2270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001833.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics comfort Х11</model>
+				<description></description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1825" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_comfort_h114</url>
+				<price>1920</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001834.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics comfort Х114</model>
+				<description></description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1826" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_comfort_h115</url>
+				<price>1600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001835.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics comfort Х115</model>
+				<description></description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1827" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_comfort_h14</url>
+				<price>2570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001836.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics comfort Х14</model>
+				<description>Маршрутный мультидисплейный компьютер "COMFORT Х14" функционально соответствует МК "COMFORT Х15", в дополнение к которому содержит  дополнительно  блок полифонических мелодий  и речевого информатора</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1828" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_h140</url>
+				<price>2690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001837.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics Х140</model>
+				<description>1. Установка в стандартное место МК в машине.
+2. Графический индикатор - наблюдение мгновенных параметров в виде графиков.
+3. RGB дисплей произвольного цвета.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1829" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_comfort_h15</url>
+				<price>1990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001838.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics comfort Х15</model>
+				<description>При помощи МК "COMFORT Х15" вы можете:В режиме Дисплеев Пользователя 1-3:1.1. Просматривать мгновенный расход топлива л/час при стоянке а/м, мгновенный расход топлива л/100 км при движении</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1830" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_h150</url>
+				<price>2010</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001839.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics Х150</model>
+				<description>Многоцветные мультидисплейные графические маршрутные компьютеры Multitronics X150 предназначены для установки в а/м ВАЗ семейства "Самара" и "Самара-2"</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1831" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_sl-50_gazel</url>
+				<price>2020</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001840.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics sl-50 gazel</model>
+				<description></description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1832" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_di15g</url>
+				<price>800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001841.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics di15g</model>
+				<description></description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1833" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_di8</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001842.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics di8</model>
+				<description></description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1839" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_vg1031gpl</url>
+				<price>4050</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001848.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics vg1031gpl</model>
+				<description></description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1843" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_vc731</url>
+				<price>4420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001852.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics vc731</model>
+				<description></description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1846" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_rc-700</url>
+				<price>5730</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001855.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics rc-700</model>
+				<description>
+Технологии
+Цветной дисплей
+Цветной TFT дисплей 2.4" разрешением 320х240  и рабочей температурой от -20 градусов. Цветовое оформление дисплеев может.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1850" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_tc_740</url>
+				<price>3780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001859.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics tc 740</model>
+				<description>Функции
+Список функций зависит от выбранного протокола диагностики и от поддержки их автомобилем
+Параметры (стандартные)
+1. Давление во впускном.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1851" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_tc_750</url>
+				<price>4800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001860.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics tc 750</model>
+				<description>Параметры (стандартные)
+1. Давление во впускном коллекторе
+2. Длительность впрыска
+3. Коррекция левая, коррекция правая
+4. Массовый расход воздуха.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+			<offer id="1853" type="vendor.model" available="true">
+				<url>http://ndural.ru/catalog/detail/multitronics_s-570</url>
+				<price>3720</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://ndural.ru/images/products/0001862.jpg</picture>
+				<typePrefix>Бортовой компьютер</typePrefix>
+				<vendor>Multitronics</vendor>
+				<model>Multitronics С-570</model>
+				<description>
+Технологии
+Совместимость
+Multitronics C-570 устанавливается в место заглушки (автомобили с 2009 года выпуска) либо в место блока контрольных ламп.</description>
+				<param name="ед.изм." >Комплект</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

@@ -5,9 +5,9 @@ Options +FollowSymlinks
 RewriteBase /
 
 
-RewriteCond %{HTTP_HOST} ^www.ndural.ru$ [NC]
+RewriteCond %{HTTP_HOST} ^www.my-site.ru$ [NC]
 
-RewriteRule ^(.*)$ http://ndural.ru/$1 [R=301,L]
+RewriteRule ^(.*)$ http://my-site.ru/$1 [R=301,L]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 
@@ -25,6 +25,6 @@ RewriteRule (.*) index.php?$1
 
 #RewriteRule ^(.*)$ index.php?$1
 
-ErrorDocument 404 http://ndural.ru/
+ErrorDocument 404 http://my-site.ru/
 
 AddDefaultCharset UTF-8

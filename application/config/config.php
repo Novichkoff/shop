@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://ndural.ru/';
+$config['base_url']	= 'http://MY_SITE_NAME/';
 
 /*
 |--------------------------------------------------------------------------
